@@ -20,8 +20,8 @@
 - One object based on another object.
 - One object get access of another object properties and methods.
 
-** JavaScript is a prototype based language.
-** Each and every JavaScript object has a prototype property which makes inheritance possible.
+- JavaScript is a prototype based language.
+- Each and every JavaScript object has a prototype property which makes inheritance possible.
 
 ## SUMMARY
 
