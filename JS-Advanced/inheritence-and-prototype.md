@@ -25,7 +25,10 @@
 
 ## SUMMARY
 
-:+1: Every JavaScript object has a **ProtoType Property**, which makes inheritance possible in JavaScript.
-:+1: The prototype property of an objects is where we put methods and properties that we want ** Other objects to inherit.
-:+1: The Constructor's prototype property is **NOT** the prototype of the Constructor itself, it is the prototype of **ALL** instance that are created though it.
-:+1: When a certain method (or property) is called, the search stars in the object itself, and if it cannot be found, the search moves on to the object's prototype. This continues until the method found: **Prototype Chain\*\*.
+- :+1: Every JavaScript object has a **ProtoType Property**, which makes inheritance possible in JavaScript.
+
+- :+1: The prototype property of an objects is where we put methods and properties that we want **Other objects to inherit**.
+
+- :+1: The Constructor's prototype property is **NOT** the prototype of the Constructor itself, it is the prototype of **ALL** instance that are created though it.
+
+- :+1: When a certain method (or property) is called, the search stars in the object itself, and if it cannot be found, the search moves on to the object's prototype. This continues until the method found: **Prototype Chain**.
